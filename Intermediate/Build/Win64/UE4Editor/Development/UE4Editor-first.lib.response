@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-first.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\kdh99\Documents\Unreal Projects\first\Intermediate\Build\Win64\UE4Editor\Development\first\first.cpp.obj"
+"C:\Users\kdh99\Documents\Unreal Projects\first\Intermediate\Build\Win64\UE4Editor\Development\first\MyFirstClass.cpp.obj"
+"C:\Users\kdh99\Documents\Unreal Projects\first\Intermediate\Build\Win64\UE4Editor\Development\first\first.init.gen.cpp.obj"
+"C:\Users\kdh99\Documents\Unreal Projects\first\Intermediate\Build\Win64\UE4Editor\Development\first\MyFirstClass.gen.cpp.obj"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\first\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\kdh99\Documents\Unreal Projects\first\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-first.lib"
